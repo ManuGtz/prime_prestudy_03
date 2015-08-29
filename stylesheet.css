@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+#jlavsav{
+	color: #4c0000;
+	font-size: 15px;
+	font-family: Verdana, Sans-Serif, Tahoma;
+	font-weight: bold;
+	padding-left:30px;
+
+
+}
+
+.both{
+	display: inline-block;
+}
+
+
+#avg{
+	
+	margin-left: 20px;
+	padding-left: 80px;
+	height: 400px;
+	width:600x;
+	padding-top: 300px;
+}
+
+#jla{
+
+	height: 400px;
+	width:600px;
+	padding-top: 300px;
+	padding-left: 50px;
+}
